@@ -1,0 +1,56 @@
+
+#myHeader{ 
+    width:100%;
+    border-top: 2px black solid;
+    border-bottom: 2px black solid;
+    background-color: gray;
+}
+
+#myTitle{
+    text-emphasis: bold;
+    font-size: 36px;
+    width:80%;
+    float:left;
+}
+
+#myNav{
+    background-color: gray;
+}
+
+.list-item{
+    background-color: lightskyblue;
+    width:100%;
+    text-align:center;
+    border-top: 2px solid black;
+}
+
+#message{
+    margin-top:2px;
+    text-emphasis: bold;
+    font-size: 20;
+}
+#myButton{
+    
+}
+/*
+
+@media (min-width: 1170px) {
+    #myButton{
+        color:gray;
+        display: none;
+    }
+}
+
+@media (min-width: 970px) and (max-width: 1169px) {
+    #myButton{
+        color:gray;
+        display: none;
+    }
+}
+ */
+#speech{
+    height:1000px;
+}
+#board{
+    background-color: darkslategray;
+}
